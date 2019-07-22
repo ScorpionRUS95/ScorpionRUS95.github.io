@@ -1,2 +1,2 @@
-# ScorpionRUS95.github.io
+# ScorpionRUS
 Mi pagina web
